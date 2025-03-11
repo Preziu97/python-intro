@@ -1,4 +1,7 @@
 '''
+Przemysław Kierasiński (98031)
+Link GitHub: https://github.com/Preziu97/python-intro
+
 Opis funkcji zip()
 Funkcja zip() umożliwia równoczesne iterowanie po kilku obiektach iterowalnych,
 tworząc krotki zawierające elementy z każdego z nich. Innymi słowy, łączy elementy
