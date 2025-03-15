@@ -1,5 +1,4 @@
-
-'''def sprawdz_email(email):
+def sprawdz_email(email):
     return "@" in email and "." in email.split("@")[-1]
 
 
@@ -55,7 +54,7 @@ nowy_format = "%Y/%m/%d"  # format: rok/miesiąc/dzień
 nowa_data = konwertuj_date(data, stary_format, nowy_format)
 
 print("Nowy format daty:", nowa_data)
-'''
+
 import time
 
 
